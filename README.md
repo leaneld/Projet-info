@@ -10,9 +10,8 @@
 
 
 ##### Objectifs
-Plusieurs objectifs sont à lister dans ce projet :
--	Réussir à créer un site internet permettant de faciliter les patients souhaitant un rétablissement rapide et retrouver leurs connaissances.
--	Une adaptabilité considérable pour chacun des patients (doit s’adapter à différents cas de patients : Musique, Mathématiques, langage, concentration, logique…)
--	Fusionner le médical et l’ingénierie
--	Proposer des exercices de qualité 
--	Le patient pourra suivre son évolution au court du temps 
+# Plusieurs objectifs sont à lister dans ce projet :
+# -	Réussir à créer un site internet permettant de faciliter les patients souhaitant un rétablissement rapide et retrouver leurs connaissances.
+# -	Une adaptabilité considérable pour chacun des patients (doit s’adapter à différents cas de patients : Musique, Mathématiques, langage, concentration, logique…)
+# -	Proposer des exercices de qualité
+# -	Le patient pourra suivre son évolution au court du temps et pourra posséder un journal de bord sur cette page web
